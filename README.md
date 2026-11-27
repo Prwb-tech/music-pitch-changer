@@ -10,7 +10,9 @@ This free pitch changer extension shifts the audio of any tab up or down in semi
   <img src="pitch-changer.png" alt="pitch changer extension>
 </p>
 
----
+pitch changer extension
+
+
 ## What it does
 
 Under the hood it's an audio pitch changer for the browser: it retunes whatever the tab is playing without touching playback speed. Push a song to +12 or down to -12, one press at a time, and the beat never drags or races. As a pitch shifter it stays deliberately small (no library, no project file, no export step) and it works on any page with a video or audio player.
