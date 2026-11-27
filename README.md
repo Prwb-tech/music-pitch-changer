@@ -4,12 +4,13 @@
 [![Works Offline](https://img.shields.io/badge/Works-Offline-blue)]()
 [![No Account](https://img.shields.io/badge/No%20Account-Required-lightgrey)]()
 
+This free pitch changer extension shifts the audio of any tab up or down in semitones (12 in each direction, one per press) and leaves the tempo exactly where it was. It works as a youtube pitch shifter: the song's key moves while the video keeps playing at normal speed. If you've been looking for a youtube pitch shifter that doesn't re-render or re-upload anything, this is it. The same trick works on any page with a video or audio player, so it doubles as a general pitch changer. No account, no uploads: the audio is processed on your machine, and the extension makes zero network requests.
+
 <p align="center">
   <img src="pitch-changer.png" alt="pitch changer extension>
 </p>
 
-This free pitch changer extension shifts the audio of any tab up or down in semitones (12 in each direction, one per press) and leaves the tempo exactly where it was. It works as a youtube pitch shifter: the song's key moves while the video keeps playing at normal speed. If you've been looking for a youtube pitch shifter that doesn't re-render or re-upload anything, this is it. The same trick works on any page with a video or audio player, so it doubles as a general pitch changer. No account, no uploads: the audio is processed on your machine, and the extension makes zero network requests.
-
+---
 ## What it does
 
 Under the hood it's an audio pitch changer for the browser: it retunes whatever the tab is playing without touching playback speed. Push a song to +12 or down to -12, one press at a time, and the beat never drags or races. As a pitch shifter it stays deliberately small (no library, no project file, no export step) and it works on any page with a video or audio player.
