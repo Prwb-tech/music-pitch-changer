@@ -4,6 +4,10 @@
 [![Works Offline](https://img.shields.io/badge/Works-Offline-blue)]()
 [![No Account](https://img.shields.io/badge/No%20Account-Required-lightgrey)]()
 
+<p align="center">
+  <img src="pitch-changer.png" alt="pitch changer extension>
+</p>
+
 This free pitch changer extension shifts the audio of any tab up or down in semitones (12 in each direction, one per press) and leaves the tempo exactly where it was. It works as a youtube pitch shifter: the song's key moves while the video keeps playing at normal speed. If you've been looking for a youtube pitch shifter that doesn't re-render or re-upload anything, this is it. The same trick works on any page with a video or audio player, so it doubles as a general pitch changer. No account, no uploads: the audio is processed on your machine, and the extension makes zero network requests.
 
 ## What it does
@@ -19,8 +23,6 @@ Under the hood it's an audio pitch changer for the browser: it retunes whatever 
 
 Unlike a desktop audio pitch changer, there's no import-and-render loop: the tab simply sounds different while it plays. That makes it a practical music pitch changer for practice tracks and backing tracks.
 
----
-
 ## How to change the key of a song on YouTube
 
 Here's the shortest path to change pitch of a song that's already open in a tab:
@@ -32,8 +34,6 @@ Here's the shortest path to change pitch of a song that's already open in a tab:
 
 To transpose YouTube audio by four semitones, you press down four times. That is the whole interface. The same steps change video pitch on any site with a player, not just music ones.
 
----
-
 ## Who it's for
 
 - **Singers** move a backing track into the key they'll perform in instead of straining toward the original.
@@ -42,8 +42,6 @@ To transpose YouTube audio by four semitones, you press down four times. That is
 - **Teachers** can play one recording in several keys for a class — a music pitch changer in the toolbar replaces the whole file hunt.
 
 None of them need a DAW for this; they need the shift right now, on the page where the song already is.
-
----
 
 ## Honest limits
 
@@ -55,8 +53,6 @@ A tool that hides its edges isn't worth trusting, so here they are:
 - It doesn't run on `chrome://` pages or inside the Chrome Web Store itself.
 - DRM-protected audio from paid streaming services is out of reach.
 - Some embedded players simply don't respond to it.
-
----
 
 ## FAQ
 
@@ -76,8 +72,6 @@ No. It moves pitch only, within ±12 semitones; the tempo is never touched. If y
 
 It doesn't listen to or analyze anything. You set the song's original key in the Song key list, and the extension shows what your shift turns it into: set E, shift +2, and the popup reads F♯. If you don't know the starting key, that part stays with you.
 
----
-
 ## Install
 
 Key Changer is free on the Chrome Web Store: **[Install Key Changer](https://chromewebstore.google.com/detail/key-changer/gnidckbifbgpgdkeobdegnnjdkjbbfme)**. One click and the pitch changer waits in your toolbar until a song sits in the wrong key. No account, nothing to set up first.
@@ -91,8 +85,6 @@ Key Changer is free on the Chrome Web Store: **[Install Key Changer](https://chr
 ---
 
 *This extension is an independent project, not affiliated with YouTube or Google LLC. YouTube is a trademark of Google LLC.*
-
----
 
 ## Links
 
