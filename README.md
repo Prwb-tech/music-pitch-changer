@@ -81,9 +81,9 @@ Key Changer is free on the Chrome Web Store: **[Install Key Changer](https://chr
 
 ---
 
-> **Ubah nada dasar lagu langsung di tab YouTube: gratis, tanpa akun**
->
-> **Mude o tom da música direto na aba do YouTube: grátis, sem cadastro**
+**Ubah nada dasar lagu langsung di tab YouTube: gratis, tanpa akun**
+
+**Mude o tom da música direto na aba do YouTube: grátis, sem cadastro**
 
 ---
 
