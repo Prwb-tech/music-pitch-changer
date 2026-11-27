@@ -7,9 +7,10 @@
 This free pitch changer extension shifts the audio of any tab up or down in semitones (12 in each direction, one per press) and leaves the tempo exactly where it was. It works as a youtube pitch shifter: the song's key moves while the video keeps playing at normal speed. If you've been looking for a youtube pitch shifter that doesn't re-render or re-upload anything, this is it. The same trick works on any page with a video or audio player, so it doubles as a general pitch changer. No account, no uploads: the audio is processed on your machine, and the extension makes zero network requests.
 
 <p align="center">
-  <img src="pitch-changer.png" alt="pitch changer extension>
+  <img src="pitch-changer.png" alt="pitch changer extension">
 </p>
-
+</p>
+    
 pitch changer extension
 
 ---
@@ -81,9 +82,9 @@ Key Changer is free on the Chrome Web Store: **[Install Key Changer](https://chr
 
 ---
 
-**Ubah nada dasar lagu langsung di tab YouTube: gratis, tanpa akun**
-
-**Mude o tom da música direto na aba do YouTube: grátis, sem cadastro**
+>**Ubah nada dasar lagu langsung di tab YouTube: gratis, tanpa akun**
+>
+>**Mude o tom da música direto na aba do YouTube: grátis, sem cadastro**
 
 ---
 
