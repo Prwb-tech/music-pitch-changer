@@ -10,6 +10,7 @@ This free pitch changer extension shifts the audio of any tab up or down in semi
   <img src="pitch-changer.png" alt="pitch changer extension>
 </p>
 
+pitch changer extension
 ---
 ## What it does
 
