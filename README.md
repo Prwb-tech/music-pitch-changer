@@ -11,6 +11,7 @@ This free pitch changer extension shifts the audio of any tab up or down in semi
 </p>
 
 pitch changer extension
+
 ---
 ## What it does
 
