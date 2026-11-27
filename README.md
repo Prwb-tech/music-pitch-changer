@@ -65,7 +65,7 @@ No. If you're after a key changer online free of uploads and sign-ups, this is t
 
 ### Will it change pitch on other sites?
 
-Yes, any page with a video or audio player. A search for "change pitch online youtube" names the most common case, not the only one. The places it can't reach (browser-internal pages, DRM streams, the occasional unresponsive embedded player) are listed under [Honest limits](#honest-limits) above.
+Yes, any page with a video or audio player. A search for "change pitch online youtube" names the most common case, not the only one. The places it can't reach (browser-internal pages, DRM streams, the occasional unresponsive embedded player) are listed under Honest limits above.
 
 ### Is this a pitch shifter extension for speed too?
 
